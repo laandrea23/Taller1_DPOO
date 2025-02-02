@@ -1,0 +1,13 @@
+tipo:ROCIO:3000:200.0
+tipo:MANGO:1500:30.0
+tipo:FLOR:700:60.0
+tipo:PEPE:1000:50.0
+surtidor:ELKIN:ROCIO:0.0:MANGO:0.0:FLOR:0.0:PEPE:0.0
+surtidor:SARA:ROCIO:0.0:MANGO:0.0:FLOR:0.0:PEPE:0.0
+surtidor:JACOBO:ROCIO:0.0:MANGO:0.0:FLOR:0.0:PEPE:0.0
+surtidor:ELKIN:ROCIO:0.0:MANGO:0.0:FLOR:0.0:PEPE:0.0
+empleado:LINA:0
+empleado:ELKIN:0
+empleado:JACOBO:0
+empleado:JAIME:0
+empleado:SARA:0
